@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red.svg)
+![Image Classification](https://img.shields.io/badge/Image-Classification-blue)
+![Academic Project](https://img.shields.io/badge/Project-Academic-important)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
